@@ -1,1 +1,1 @@
-puts "moist skin"
+puts "moist skin".upcase
