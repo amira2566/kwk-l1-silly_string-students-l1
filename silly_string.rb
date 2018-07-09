@@ -1,1 +1,3 @@
-puts "moist skin".upcase
+puts "supercalifragilisticexpadlidocious".upcase
+puts "supercalifragilisticexpialidocious".length
+puts
